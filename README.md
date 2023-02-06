@@ -4,10 +4,10 @@ Implementation of Baseline for LCric dataset. The repository is heavily derived 
 
 ## Usage
 
-Create an environment from the requirements file
+The experiments are done on Python 3.9 version. Create an environment from the yml file
 
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 The directory structure for the repo should look as follows:
